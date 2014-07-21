@@ -1,0 +1,1839 @@
+[
+{
+    "pk": 1, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Metro Manila", 
+        "slug": "metro-manila"
+    }
+},
+{
+    "pk": 2, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "MINDANAO", 
+        "name": "Agusan del Norte", 
+        "slug": "agusan-del-norte"
+    }
+},
+{
+    "pk": 3, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "MINDANAO", 
+        "name": "Agusan del Sur", 
+        "slug": "agusan-del-sur"
+    }
+},
+{
+    "pk": 4, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Albay", 
+        "slug": "albay"
+    }
+},
+{
+    "pk": 5, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "MINDANAO", 
+        "name": "Basilan", 
+        "slug": "basilan"
+    }
+},
+{
+    "pk": 6, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Bataan", 
+        "slug": "bataan"
+    }
+},
+{
+    "pk": 7, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Batangas", 
+        "slug": "batangas"
+    }
+},
+{
+    "pk": 8, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Benguet", 
+        "slug": "benguet"
+    }
+},
+{
+    "pk": 9, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "VISAYAS", 
+        "name": "Bohol", 
+        "slug": "bohol"
+    }
+},
+{
+    "pk": 10, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "MINDANAO", 
+        "name": "Bukidnon", 
+        "slug": "bukidnon"
+    }
+},
+{
+    "pk": 11, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Bulacan", 
+        "slug": "bulacan"
+    }
+},
+{
+    "pk": 12, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Cagayan", 
+        "slug": "cagayan"
+    }
+},
+{
+    "pk": 13, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Camarines Sur", 
+        "slug": "camarines-sur"
+    }
+},
+{
+    "pk": 14, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "VISAYAS", 
+        "name": "Capiz", 
+        "slug": "capiz"
+    }
+},
+{
+    "pk": 15, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Cavite", 
+        "slug": "cavite"
+    }
+},
+{
+    "pk": 16, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "VISAYAS", 
+        "name": "Cebu", 
+        "slug": "cebu"
+    }
+},
+{
+    "pk": 17, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "MINDANAO", 
+        "name": "Cotabato (North)", 
+        "slug": "cotabato-north"
+    }
+},
+{
+    "pk": 18, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "MINDANAO", 
+        "name": "Davao del Norte", 
+        "slug": "davao-del-norte"
+    }
+},
+{
+    "pk": 19, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "MINDANAO", 
+        "name": "Davao del Sur", 
+        "slug": "davao-del-sur"
+    }
+},
+{
+    "pk": 20, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "MINDANAO", 
+        "name": "Davao Oriental", 
+        "slug": "davao-oriental"
+    }
+},
+{
+    "pk": 21, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "VISAYAS", 
+        "name": "Eastern Samar", 
+        "slug": "eastern-samar"
+    }
+},
+{
+    "pk": 22, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Ilocos Norte", 
+        "slug": "ilocos-norte"
+    }
+},
+{
+    "pk": 23, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Ilocos Sur", 
+        "slug": "ilocos-sur"
+    }
+},
+{
+    "pk": 24, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "VISAYAS", 
+        "name": "Iloilo", 
+        "slug": "iloilo"
+    }
+},
+{
+    "pk": 25, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Isabela", 
+        "slug": "isabela"
+    }
+},
+{
+    "pk": 26, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Kalinga", 
+        "slug": "kalinga"
+    }
+},
+{
+    "pk": 27, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "La Union", 
+        "slug": "la-union"
+    }
+},
+{
+    "pk": 28, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Laguna", 
+        "slug": "laguna"
+    }
+},
+{
+    "pk": 29, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "MINDANAO", 
+        "name": "Lanao del Norte", 
+        "slug": "lanao-del-norte"
+    }
+},
+{
+    "pk": 30, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "MINDANAO", 
+        "name": "Lanao del Sur", 
+        "slug": "lanao-del-sur"
+    }
+},
+{
+    "pk": 31, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "VISAYAS", 
+        "name": "Leyte", 
+        "slug": "leyte"
+    }
+},
+{
+    "pk": 32, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "MINDANAO", 
+        "name": "Maguindanao", 
+        "slug": "maguindanao"
+    }
+},
+{
+    "pk": 33, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "VISAYAS", 
+        "name": "Masbate", 
+        "slug": "masbate"
+    }
+},
+{
+    "pk": 34, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "MINDANAO", 
+        "name": "Misamis Occidental", 
+        "slug": "misamis-occidental"
+    }
+},
+{
+    "pk": 35, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "MINDANAO", 
+        "name": "Misamis Oriental", 
+        "slug": "misamis-oriental"
+    }
+},
+{
+    "pk": 36, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "VISAYAS", 
+        "name": "Negros Occidental", 
+        "slug": "negros-occidental"
+    }
+},
+{
+    "pk": 37, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "VISAYAS", 
+        "name": "Negros Oriental", 
+        "slug": "negros-oriental"
+    }
+},
+{
+    "pk": 38, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Nueva Ecija", 
+        "slug": "nueva-ecija"
+    }
+},
+{
+    "pk": 39, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Oriental Mindoro", 
+        "slug": "oriental-mindoro"
+    }
+},
+{
+    "pk": 40, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Palawan", 
+        "slug": "palawan"
+    }
+},
+{
+    "pk": 41, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Pampanga", 
+        "slug": "pampanga"
+    }
+},
+{
+    "pk": 42, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Pangasinan", 
+        "slug": "pangasinan"
+    }
+},
+{
+    "pk": 43, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Quezon", 
+        "slug": "quezon"
+    }
+},
+{
+    "pk": 44, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Rizal", 
+        "slug": "rizal"
+    }
+},
+{
+    "pk": 45, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "VISAYAS", 
+        "name": "Samar (Western)", 
+        "slug": "samar-western"
+    }
+},
+{
+    "pk": 46, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Sorsogon", 
+        "slug": "sorsogon"
+    }
+},
+{
+    "pk": 47, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "MINDANAO", 
+        "name": "South Cotabato", 
+        "slug": "south-cotabato"
+    }
+},
+{
+    "pk": 48, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "VISAYAS", 
+        "name": "Southern Leyte", 
+        "slug": "southern-leyte"
+    }
+},
+{
+    "pk": 49, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "MINDANAO", 
+        "name": "Sultan Kudarat", 
+        "slug": "sultan-kudarat"
+    }
+},
+{
+    "pk": 50, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "VISAYAS", 
+        "name": "Surigao del Norte", 
+        "slug": "surigao-del-norte"
+    }
+},
+{
+    "pk": 51, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "VISAYAS", 
+        "name": "Surigao del Sur", 
+        "slug": "surigao-del-sur"
+    }
+},
+{
+    "pk": 52, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Tarlac", 
+        "slug": "tarlac"
+    }
+},
+{
+    "pk": 53, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "LUZON", 
+        "name": "Zambales", 
+        "slug": "zambales"
+    }
+},
+{
+    "pk": 54, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "MINDANAO", 
+        "name": "Zamboanga del Norte", 
+        "slug": "zamboanga-del-norte"
+    }
+},
+{
+    "pk": 55, 
+    "model": "addresses.province", 
+    "fields": {
+        "country": "Philippines", 
+        "island_group": "MINDANAO", 
+        "name": "Zamboanga del Sur", 
+        "slug": "zamboanga-del-sur"
+    }
+},
+{
+    "pk": 1, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "metro-manila", 
+        "name": "Caloocan", 
+        "slug": "caloocan-metro-manila"
+    }
+},
+{
+    "pk": 2, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "metro-manila", 
+        "name": "Las Pi\u00f1as", 
+        "slug": "las-pinas-metro-manila"
+    }
+},
+{
+    "pk": 3, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "metro-manila", 
+        "name": "Malabon", 
+        "slug": "malabon-metro-manila"
+    }
+},
+{
+    "pk": 4, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "metro-manila", 
+        "name": "Mandaluyong", 
+        "slug": "mandaluyong-metro-manila"
+    }
+},
+{
+    "pk": 5, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "metro-manila", 
+        "name": "Manila", 
+        "slug": "manila-metro-manila"
+    }
+},
+{
+    "pk": 6, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "metro-manila", 
+        "name": "Marikina", 
+        "slug": "marikina-metro-manila"
+    }
+},
+{
+    "pk": 7, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "metro-manila", 
+        "name": "Muntinlupa", 
+        "slug": "muntinlupa-metro-manila"
+    }
+},
+{
+    "pk": 8, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "metro-manila", 
+        "name": "Navotas", 
+        "slug": "navotas-metro-manila"
+    }
+},
+{
+    "pk": 9, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "metro-manila", 
+        "name": "Para\u00f1aque", 
+        "slug": "paranaque-metro-manila"
+    }
+},
+{
+    "pk": 10, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "metro-manila", 
+        "name": "Pasay", 
+        "slug": "pasay-metro-manila"
+    }
+},
+{
+    "pk": 11, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "metro-manila", 
+        "name": "Pasig", 
+        "slug": "pasig-metro-manila"
+    }
+},
+{
+    "pk": 12, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "metro-manila", 
+        "name": "Quezon City", 
+        "slug": "quezon-city-metro-manila"
+    }
+},
+{
+    "pk": 13, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "metro-manila", 
+        "name": "San Juan", 
+        "slug": "san-juan-metro-manila"
+    }
+},
+{
+    "pk": 14, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "metro-manila", 
+        "name": "Taguig", 
+        "slug": "taguig-metro-manila"
+    }
+},
+{
+    "pk": 15, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "metro-manila", 
+        "name": "Valenzuela", 
+        "slug": "valenzuela-metro-manila"
+    }
+},
+{
+    "pk": 16, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "metro-manila", 
+        "name": "Makati", 
+        "slug": "makati-metro-manila"
+    }
+},
+{
+    "pk": 17, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "agusan-del-norte", 
+        "name": "Butuan", 
+        "slug": "butuan-agusan-del-norte"
+    }
+},
+{
+    "pk": 18, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "agusan-del-norte", 
+        "name": "Cabadbaran", 
+        "slug": "cabadbaran-agusan-del-norte"
+    }
+},
+{
+    "pk": 19, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "agusan-del-sur", 
+        "name": "Bayugan", 
+        "slug": "bayugan-agusan-del-sur"
+    }
+},
+{
+    "pk": 20, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "albay", 
+        "name": "Legazpi", 
+        "slug": "legazpi-albay"
+    }
+},
+{
+    "pk": 21, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "albay", 
+        "name": "Ligao", 
+        "slug": "ligao-albay"
+    }
+},
+{
+    "pk": 22, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "albay", 
+        "name": "Tabaco", 
+        "slug": "tabaco-albay"
+    }
+},
+{
+    "pk": 23, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "basilan", 
+        "name": "Isabela", 
+        "slug": "isabela-basilan"
+    }
+},
+{
+    "pk": 24, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "basilan", 
+        "name": "Lamitan", 
+        "slug": "lamitan-basilan"
+    }
+},
+{
+    "pk": 25, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "bataan", 
+        "name": "Balanga", 
+        "slug": "balanga-bataan"
+    }
+},
+{
+    "pk": 26, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "batangas", 
+        "name": "Batangas City", 
+        "slug": "batangas-city-batangas"
+    }
+},
+{
+    "pk": 27, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "batangas", 
+        "name": "Lipa", 
+        "slug": "lipa-batangas"
+    }
+},
+{
+    "pk": 28, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "batangas", 
+        "name": "Tanauan", 
+        "slug": "tanauan-batangas"
+    }
+},
+{
+    "pk": 29, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "benguet", 
+        "name": "Baguio", 
+        "slug": "baguio-benguet"
+    }
+},
+{
+    "pk": 30, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "bohol", 
+        "name": "Tagbilaran", 
+        "slug": "tagbilaran-bohol"
+    }
+},
+{
+    "pk": 31, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "bukidnon", 
+        "name": "Malaybalay", 
+        "slug": "malaybalay-bukidnon"
+    }
+},
+{
+    "pk": 32, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "bukidnon", 
+        "name": "Valencia", 
+        "slug": "valencia-bukidnon"
+    }
+},
+{
+    "pk": 33, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "bulacan", 
+        "name": "Malolos", 
+        "slug": "malolos-bulacan"
+    }
+},
+{
+    "pk": 34, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "bulacan", 
+        "name": "Meycauayan", 
+        "slug": "meycauayan-bulacan"
+    }
+},
+{
+    "pk": 35, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "bulacan", 
+        "name": "San Jose del Monte", 
+        "slug": "san-jose-del-monte-bulacan"
+    }
+},
+{
+    "pk": 36, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "cagayan", 
+        "name": "Tuguegarao", 
+        "slug": "tuguegarao-cagayan"
+    }
+},
+{
+    "pk": 37, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "camarines-sur", 
+        "name": "Iriga", 
+        "slug": "iriga-camarines-sur"
+    }
+},
+{
+    "pk": 38, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "camarines-sur", 
+        "name": "Naga", 
+        "slug": "naga-camarines-sur"
+    }
+},
+{
+    "pk": 39, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "capiz", 
+        "name": "Roxas", 
+        "slug": "roxas-capiz"
+    }
+},
+{
+    "pk": 40, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "cavite", 
+        "name": "Bacoor", 
+        "slug": "bacoor-cavite"
+    }
+},
+{
+    "pk": 41, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "cavite", 
+        "name": "Cavite City", 
+        "slug": "cavite-city-cavite"
+    }
+},
+{
+    "pk": 42, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "cavite", 
+        "name": "Dasmari\u00f1as", 
+        "slug": "dasmarinas-cavite"
+    }
+},
+{
+    "pk": 43, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "cavite", 
+        "name": "Imus", 
+        "slug": "imus-cavite"
+    }
+},
+{
+    "pk": 44, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "cavite", 
+        "name": "Tagaytay", 
+        "slug": "tagaytay-cavite"
+    }
+},
+{
+    "pk": 45, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "cavite", 
+        "name": "Trece Martires", 
+        "slug": "trece-martires-cavite"
+    }
+},
+{
+    "pk": 46, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "cebu", 
+        "name": "Bogo", 
+        "slug": "bogo-cebu"
+    }
+},
+{
+    "pk": 47, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "cebu", 
+        "name": "Carcar", 
+        "slug": "carcar-cebu"
+    }
+},
+{
+    "pk": 48, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "cebu", 
+        "name": "Cebu City", 
+        "slug": "cebu-city-cebu"
+    }
+},
+{
+    "pk": 49, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "cebu", 
+        "name": "Danao", 
+        "slug": "danao-cebu"
+    }
+},
+{
+    "pk": 50, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "cebu", 
+        "name": "Lapu-Lapu", 
+        "slug": "lapu-lapu-cebu"
+    }
+},
+{
+    "pk": 51, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "cebu", 
+        "name": "Mandaue", 
+        "slug": "mandaue-cebu"
+    }
+},
+{
+    "pk": 52, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "cebu", 
+        "name": "Naga", 
+        "slug": "naga-cebu"
+    }
+},
+{
+    "pk": 53, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "cebu", 
+        "name": "Talisay", 
+        "slug": "talisay-cebu"
+    }
+},
+{
+    "pk": 54, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "cebu", 
+        "name": "Toledo", 
+        "slug": "toledo-cebu"
+    }
+},
+{
+    "pk": 55, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "cotabato-north", 
+        "name": "Kidapawan", 
+        "slug": "kidapawan-cotabato-north"
+    }
+},
+{
+    "pk": 56, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "davao-del-norte", 
+        "name": "Panabo", 
+        "slug": "panabo-davao-del-norte"
+    }
+},
+{
+    "pk": 57, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "davao-del-norte", 
+        "name": "Samal", 
+        "slug": "samal-davao-del-norte"
+    }
+},
+{
+    "pk": 58, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "davao-del-norte", 
+        "name": "Tagum", 
+        "slug": "tagum-davao-del-norte"
+    }
+},
+{
+    "pk": 59, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "davao-del-sur", 
+        "name": "Davao City", 
+        "slug": "davao-city-davao-del-sur"
+    }
+},
+{
+    "pk": 60, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "davao-del-sur", 
+        "name": "Digos", 
+        "slug": "digos-davao-del-sur"
+    }
+},
+{
+    "pk": 61, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "davao-oriental", 
+        "name": "Mati", 
+        "slug": "mati-davao-oriental"
+    }
+},
+{
+    "pk": 62, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "eastern-samar", 
+        "name": "Borongan", 
+        "slug": "borongan-eastern-samar"
+    }
+},
+{
+    "pk": 63, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "ilocos-norte", 
+        "name": "Batac", 
+        "slug": "batac-ilocos-norte"
+    }
+},
+{
+    "pk": 64, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "ilocos-norte", 
+        "name": "Laoag", 
+        "slug": "laoag-ilocos-norte"
+    }
+},
+{
+    "pk": 65, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "ilocos-sur", 
+        "name": "Candon", 
+        "slug": "candon-ilocos-sur"
+    }
+},
+{
+    "pk": 66, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "ilocos-sur", 
+        "name": "Vigan", 
+        "slug": "vigan-ilocos-sur"
+    }
+},
+{
+    "pk": 67, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "iloilo", 
+        "name": "Iloilo City", 
+        "slug": "iloilo-city-iloilo"
+    }
+},
+{
+    "pk": 68, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "iloilo", 
+        "name": "Passi", 
+        "slug": "passi-iloilo"
+    }
+},
+{
+    "pk": 69, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "isabela", 
+        "name": "Cauayan", 
+        "slug": "cauayan-isabela"
+    }
+},
+{
+    "pk": 70, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "isabela", 
+        "name": "Ilagan", 
+        "slug": "ilagan-isabela"
+    }
+},
+{
+    "pk": 71, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "isabela", 
+        "name": "Santiago", 
+        "slug": "santiago-isabela"
+    }
+},
+{
+    "pk": 72, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "kalinga", 
+        "name": "Tabuk", 
+        "slug": "tabuk-kalinga"
+    }
+},
+{
+    "pk": 73, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "la-union", 
+        "name": "San Fernando", 
+        "slug": "san-fernando-la-union"
+    }
+},
+{
+    "pk": 74, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "laguna", 
+        "name": "Bi\u00f1an", 
+        "slug": "binan-laguna"
+    }
+},
+{
+    "pk": 75, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "laguna", 
+        "name": "Cabuyao", 
+        "slug": "cabuyao-laguna"
+    }
+},
+{
+    "pk": 76, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "laguna", 
+        "name": "Calamba", 
+        "slug": "calamba-laguna"
+    }
+},
+{
+    "pk": 77, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "laguna", 
+        "name": "San Pablo", 
+        "slug": "san-pablo-laguna"
+    }
+},
+{
+    "pk": 78, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "laguna", 
+        "name": "Santa Rosa", 
+        "slug": "santa-rosa-laguna"
+    }
+},
+{
+    "pk": 79, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "lanao-del-norte", 
+        "name": "Iligan", 
+        "slug": "iligan-lanao-del-norte"
+    }
+},
+{
+    "pk": 80, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "lanao-del-sur", 
+        "name": "Marawi", 
+        "slug": "marawi-lanao-del-sur"
+    }
+},
+{
+    "pk": 81, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "leyte", 
+        "name": "Baybay", 
+        "slug": "baybay-leyte"
+    }
+},
+{
+    "pk": 82, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "leyte", 
+        "name": "Ormoc", 
+        "slug": "ormoc-leyte"
+    }
+},
+{
+    "pk": 83, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "leyte", 
+        "name": "Tacloban", 
+        "slug": "tacloban-leyte"
+    }
+},
+{
+    "pk": 84, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "maguindanao", 
+        "name": "Cotabato City", 
+        "slug": "cotabato-city-maguindanao"
+    }
+},
+{
+    "pk": 85, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "masbate", 
+        "name": "Masbate City", 
+        "slug": "masbate-city-masbate"
+    }
+},
+{
+    "pk": 86, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "misamis-occidental", 
+        "name": "Oroquieta", 
+        "slug": "oroquieta-misamis-occidental"
+    }
+},
+{
+    "pk": 87, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "misamis-occidental", 
+        "name": "Ozamiz", 
+        "slug": "ozamiz-misamis-occidental"
+    }
+},
+{
+    "pk": 88, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "misamis-occidental", 
+        "name": "Tangub", 
+        "slug": "tangub-misamis-occidental"
+    }
+},
+{
+    "pk": 89, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "misamis-oriental", 
+        "name": "Cagayan de Oro", 
+        "slug": "cagayan-de-oro-misamis-oriental"
+    }
+},
+{
+    "pk": 90, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "misamis-oriental", 
+        "name": "El Salvador", 
+        "slug": "el-salvador-misamis-oriental"
+    }
+},
+{
+    "pk": 91, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "misamis-oriental", 
+        "name": "Gingoog", 
+        "slug": "gingoog-misamis-oriental"
+    }
+},
+{
+    "pk": 92, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "negros-occidental", 
+        "name": "Bacolod", 
+        "slug": "bacolod-negros-occidental"
+    }
+},
+{
+    "pk": 93, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "negros-occidental", 
+        "name": "Bago", 
+        "slug": "bago-negros-occidental"
+    }
+},
+{
+    "pk": 94, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "negros-occidental", 
+        "name": "Cadiz", 
+        "slug": "cadiz-negros-occidental"
+    }
+},
+{
+    "pk": 95, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "negros-occidental", 
+        "name": "Escalante", 
+        "slug": "escalante-negros-occidental"
+    }
+},
+{
+    "pk": 96, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "negros-occidental", 
+        "name": "Himamaylan", 
+        "slug": "himamaylan-negros-occidental"
+    }
+},
+{
+    "pk": 97, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "negros-occidental", 
+        "name": "Kabankalan", 
+        "slug": "kabankalan-negros-occidental"
+    }
+},
+{
+    "pk": 98, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "negros-occidental", 
+        "name": "La Carlota", 
+        "slug": "la-carlota-negros-occidental"
+    }
+},
+{
+    "pk": 99, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "negros-occidental", 
+        "name": "Sagay", 
+        "slug": "sagay-negros-occidental"
+    }
+},
+{
+    "pk": 100, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "negros-occidental", 
+        "name": "San Carlos", 
+        "slug": "san-carlos-negros-occidental"
+    }
+},
+{
+    "pk": 101, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "negros-occidental", 
+        "name": "Silay", 
+        "slug": "silay-negros-occidental"
+    }
+},
+{
+    "pk": 102, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "negros-occidental", 
+        "name": "Sipalay", 
+        "slug": "sipalay-negros-occidental"
+    }
+},
+{
+    "pk": 103, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "negros-occidental", 
+        "name": "Talisay", 
+        "slug": "talisay-negros-occidental"
+    }
+},
+{
+    "pk": 104, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "negros-occidental", 
+        "name": "Victorias", 
+        "slug": "victorias-negros-occidental"
+    }
+},
+{
+    "pk": 105, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "negros-oriental", 
+        "name": "Bais", 
+        "slug": "bais-negros-oriental"
+    }
+},
+{
+    "pk": 106, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "negros-oriental", 
+        "name": "Bayawan", 
+        "slug": "bayawan-negros-oriental"
+    }
+},
+{
+    "pk": 107, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "negros-oriental", 
+        "name": "Canlaon", 
+        "slug": "canlaon-negros-oriental"
+    }
+},
+{
+    "pk": 108, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "negros-oriental", 
+        "name": "Dumaguete", 
+        "slug": "dumaguete-negros-oriental"
+    }
+},
+{
+    "pk": 109, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "negros-oriental", 
+        "name": "Guihulngan", 
+        "slug": "guihulngan-negros-oriental"
+    }
+},
+{
+    "pk": 110, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "negros-oriental", 
+        "name": "Tanjay", 
+        "slug": "tanjay-negros-oriental"
+    }
+},
+{
+    "pk": 111, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "nueva-ecija", 
+        "name": "Cabanatuan", 
+        "slug": "cabanatuan-nueva-ecija"
+    }
+},
+{
+    "pk": 112, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "nueva-ecija", 
+        "name": "Gapan", 
+        "slug": "gapan-nueva-ecija"
+    }
+},
+{
+    "pk": 113, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "nueva-ecija", 
+        "name": "Mu\u00f1oz", 
+        "slug": "munoz-nueva-ecija"
+    }
+},
+{
+    "pk": 114, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "nueva-ecija", 
+        "name": "Palayan", 
+        "slug": "palayan-nueva-ecija"
+    }
+},
+{
+    "pk": 115, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "nueva-ecija", 
+        "name": "San Jose", 
+        "slug": "san-jose-nueva-ecija"
+    }
+},
+{
+    "pk": 116, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "oriental-mindoro", 
+        "name": "Calapan", 
+        "slug": "calapan-oriental-mindoro"
+    }
+},
+{
+    "pk": 117, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "palawan", 
+        "name": "Puerto Princesa", 
+        "slug": "puerto-princesa-palawan"
+    }
+},
+{
+    "pk": 118, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "pampanga", 
+        "name": "Angeles", 
+        "slug": "angeles-pampanga"
+    }
+},
+{
+    "pk": 119, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "pampanga", 
+        "name": "Mabalacat", 
+        "slug": "mabalacat-pampanga"
+    }
+},
+{
+    "pk": 120, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "pampanga", 
+        "name": "San Fernando", 
+        "slug": "san-fernando-pampanga"
+    }
+},
+{
+    "pk": 121, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "pangasinan", 
+        "name": "Alaminos", 
+        "slug": "alaminos-pangasinan"
+    }
+},
+{
+    "pk": 122, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "pangasinan", 
+        "name": "Dagupan", 
+        "slug": "dagupan-pangasinan"
+    }
+},
+{
+    "pk": 123, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "pangasinan", 
+        "name": "San Carlos", 
+        "slug": "san-carlos-pangasinan"
+    }
+},
+{
+    "pk": 124, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "pangasinan", 
+        "name": "Urdaneta", 
+        "slug": "urdaneta-pangasinan"
+    }
+},
+{
+    "pk": 125, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "quezon", 
+        "name": "Lucena", 
+        "slug": "lucena-quezon"
+    }
+},
+{
+    "pk": 126, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "quezon", 
+        "name": "Tayabas", 
+        "slug": "tayabas-quezon"
+    }
+},
+{
+    "pk": 127, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "rizal", 
+        "name": "Antipolo", 
+        "slug": "antipolo-rizal"
+    }
+},
+{
+    "pk": 128, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "samar-western", 
+        "name": "Calbayog", 
+        "slug": "calbayog-samar-western"
+    }
+},
+{
+    "pk": 129, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "samar-western", 
+        "name": "Catbalogan", 
+        "slug": "catbalogan-samar-western"
+    }
+},
+{
+    "pk": 130, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "sorsogon", 
+        "name": "Sorsogon City", 
+        "slug": "sorsogon-city-sorsogon"
+    }
+},
+{
+    "pk": 131, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "south-cotabato", 
+        "name": "General Santos", 
+        "slug": "general-santos-south-cotabato"
+    }
+},
+{
+    "pk": 132, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "south-cotabato", 
+        "name": "Koronadal", 
+        "slug": "koronadal-south-cotabato"
+    }
+},
+{
+    "pk": 133, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "southern-leyte", 
+        "name": "Maasin", 
+        "slug": "maasin-southern-leyte"
+    }
+},
+{
+    "pk": 134, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "sultan-kudarat", 
+        "name": "Tacurong", 
+        "slug": "tacurong-sultan-kudarat"
+    }
+},
+{
+    "pk": 135, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "surigao-del-norte", 
+        "name": "Surigao City", 
+        "slug": "surigao-city-surigao-del-norte"
+    }
+},
+{
+    "pk": 136, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "surigao-del-sur", 
+        "name": "Bislig", 
+        "slug": "bislig-surigao-del-sur"
+    }
+},
+{
+    "pk": 137, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "surigao-del-sur", 
+        "name": "Tandag", 
+        "slug": "tandag-surigao-del-sur"
+    }
+},
+{
+    "pk": 138, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "tarlac", 
+        "name": "Tarlac City", 
+        "slug": "tarlac-city-tarlac"
+    }
+},
+{
+    "pk": 139, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "zambales", 
+        "name": "Olongapo", 
+        "slug": "olongapo-zambales"
+    }
+},
+{
+    "pk": 140, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "zamboanga-del-norte", 
+        "name": "Dapitan", 
+        "slug": "dapitan-zamboanga-del-norte"
+    }
+},
+{
+    "pk": 141, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "zamboanga-del-norte", 
+        "name": "Dipolog", 
+        "slug": "dipolog-zamboanga-del-norte"
+    }
+},
+{
+    "pk": 142, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "zamboanga-del-sur", 
+        "name": "Pagadian", 
+        "slug": "pagadian-zamboanga-del-sur"
+    }
+},
+{
+    "pk": 143, 
+    "model": "addresses.city", 
+    "fields": {
+        "province": "zamboanga-del-sur", 
+        "name": "Zamboanga City", 
+        "slug": "zamboanga-city-zamboanga-del-sur"
+    }
+}
+]
