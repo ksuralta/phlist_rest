@@ -2,7 +2,7 @@ language: python
 python:
   - "2.7"
 env:
-  - DJANGO=1.6.5 DB_ENGINE="django.db.backends.sqlite3" DB_NAME="phlistdb"
+  - DJANGO=1.6.5 DB_ENGINE="django.db.backends.sqlite3" DB_NAME="phlistdb" DB_USER="" DB_PASSWORD="" DB_HOST="" DB_PORT=""
 # command to install dependencies
 install: "pip install -r requirements.txt"
 # command to run tests
